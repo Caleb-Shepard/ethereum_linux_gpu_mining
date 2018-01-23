@@ -13,3 +13,5 @@ Setup scripts for Etherium mining on the Ubuntu operating system
 `./script.sh`
 
 Be sure to modify the script variables to fit your needs.
+You may need to run as root and change the $(whoami) 
+statements on 73 and 76 to assign the start job to the correct user.
