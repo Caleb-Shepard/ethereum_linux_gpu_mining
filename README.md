@@ -21,7 +21,7 @@ I believe that it is possible to use these configurations to mine ETH on both
 at the same time. I have not tried this personally but there isn't an
 apparent reason for it not to work out. 
 
-Kernel verrsions > 4.13 reportedly have open source AMD drivers that perform
+Linux Kernel versions > 4.13 reportedly have open source AMD drivers that perform
 better than their proprietary counterparts. I do not know this is true but 
 have managed to get slightly better performance on an AMD Radeon RX 560 
 than I achieved on Windows 10 with a similar setup using proprietary drivers. 
