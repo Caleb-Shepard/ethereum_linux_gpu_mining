@@ -1,10 +1,10 @@
-# etherium_linux_gpu_mining
-Setup scripts for Etherium mining on the Ubuntu operating system
+# ethereum_linux_gpu_mining
+Setup scripts for Ethereum mining on the Ubuntu operating system
 
 ## Usage
-`git clone https://github.com/Caleb-Shepard/etherium_linux_gpu_mining`
+`git clone https://github.com/Caleb-Shepard/ethereum_linux_gpu_mining`
 
-`cd etherium_linux_gpu_mining`
+`cd ethereum_linux_gpu_mining`
 
 `chmod +x *.sh`
 
