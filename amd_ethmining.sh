@@ -17,7 +17,7 @@ sudo usermod -a -G video $LOGNAME
 
 # Install AMD drivers
 cd ~/Downloads
-wget --referer=http://support.amd.com https://www2.ati.com/drivers/linux/ubuntu/amdgpu-pro-17.10-414273.tar.xz
+wget --referer=https://www2.ati.com/drivers/linux/ubuntu/amdgpu-pro-17.50-511655.tar.xz
 tar -Jxvf amdgpu-pro-17.10-414273.tar.xz
 cd amdgpu-pro-17.10-414273
 ./amdgpu-pro-install -y
